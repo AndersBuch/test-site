@@ -6,4 +6,4 @@ software.
 - Bob (Developer)
 - Charlie (Designer)
 - Diana (QA Engineer)
-- James (QA Engineer)
+- James j. (QA Engineer)
